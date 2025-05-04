@@ -1,4 +1,4 @@
-# 🚀 Advanced Stock Market Application with ML-Powered Insights
+# 🚀 Stock Market Application with ML-Powered Insights
 
 Welcome to a cutting-edge stock market application that combines distributed systems architecture with state-of-the-art machine learning capabilities. This project demonstrates the integration of microservices, fault tolerance, and advanced ML models to create a robust and intelligent trading platform.
 
